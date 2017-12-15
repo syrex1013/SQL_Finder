@@ -8,3 +8,6 @@ SQL_finder will help you find sites vulnerable to sql injection
 3.Type query ex. **inurl:index.php?id=**  
 4.Then it will download links and it will check for basic SQL injection  
 
+# Disclaimer
+
+The author does not hold any responsibility about the bad use of this script, remmenber that attacking targets without prior concent its ilegal and punished by law.
